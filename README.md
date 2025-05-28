@@ -58,7 +58,4 @@ Generate all the solid color wallpapers from macOS (including Muted versions) ri
 - Inspired by macOS and iOS built-in wallpaper shuffling.
 
 ---
-
-## License
-
-MIT License (feel free to use/modify/share!)
+Alper Kara 2025
